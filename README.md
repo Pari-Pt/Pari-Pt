@@ -13,7 +13,7 @@
     <ul>
      <li>📝I’m developing my skills in Front-End Development</li>
      <li>Check out my <a href="https://confident-elion-25e30f.netlify.app/contact.html" target="_blank" rel="noopener noreferrer">Portfolio</a>
-     <li>💻 I’m currently learning React and MongoDB</li>
+     <li>💻 I’m currently learning React, MongoDB and AWS Cloud Essentials</li>
      <li>✅ Available for work and collaborations</li>
      <li>📧 seonah.webdev@gmail.com</li>
      <li>Or reach me via <a href="https://www.linkedin.com/in/pari-pt/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
