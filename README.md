@@ -30,7 +30,7 @@
     <img src="https://user-images.githubusercontent.com/93651932/183394608-782efc5b-975d-49b2-8445-df2d88b3eaee.png" alt="Bootstrap icon" width="80"/>
     <img src="https://user-images.githubusercontent.com/93651932/183401162-102f8e42-90ba-4a6e-9800-23ea472089c1.png" alt="API icon" width="80"/>
     <img src="https://user-images.githubusercontent.com/93651932/187914628-aeda5345-eeeb-4afc-9ca1-5717e3c3792d.png" alt="PHP icon from     https://creativecommons.org/licenses/by-sa/4.0/" width="90"/>
-    <h3>Databases</h3>
+    <h3>Databases that I'm learning to use</h3>
     <img src="https://user-images.githubusercontent.com/93651932/187916052-273bea61-254e-48bc-b8e9-11b6fe40e62f.png" alt="MySQL" width="80"/>
     <span>&nbsp</span>
     <img src="https://user-images.githubusercontent.com/93651932/183395471-6ff16601-2e29-43f7-b254-5e0319fd4a25.svg" alt="MongoDB" width="80"/>
