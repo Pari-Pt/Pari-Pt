@@ -11,6 +11,7 @@
 
   <section>
     <ul>
+     <li>Currently a Frontend Developer Trainee at Brainnest</li>
      <li>📝I’m developing my skills in Front-End Development</li>
      <li>Check out my <a href="https://confident-elion-25e30f.netlify.app/contact.html" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
      <li>💻 I’m currently learning React, PHP, MySQL, MongoDB and AWS Cloud Essentials</li>
